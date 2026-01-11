@@ -52,7 +52,7 @@ Select best-performing model (XGBoost achieved 91% R²)
 
 Predict bike rentals for given conditions
 
-Handle extreme weather scenarios
+Handle extreme weather scenarios.
 
 
 **Results**
