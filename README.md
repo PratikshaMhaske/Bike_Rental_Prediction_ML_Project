@@ -74,7 +74,7 @@ Deploy as a web app for real-time predictions
 
 **Author**
 
-**Pratiksha Mhaske – Engineer**
+**Er. Pratiksha Mhaske**
 
 **LinkedIn:** https://www.linkedin.com/in/pratiksha-mhaske-173643387
 
