@@ -12,7 +12,7 @@ temperature	      Temperature in Celsius
 humidity	        Humidity level
 windspeed	        Wind speed
 datetime	        Date and time of the record
-count	            Number of bike rentals (target variable)
+count	            Number of bike rentals (**target variable**)
 
 
 **Tech Stack**
