@@ -44,9 +44,9 @@ Correlation analysis between features
 
 Train multiple regression models
 
-Evaluate using R² score and RMSE
+Evaluate using R² score and **RMSE**
 
-Select best-performing model (XGBoost achieved 91% R²)
+Select best-performing model (**XGBoost achieved 91% R²**)
 
 **Prediction**
 
