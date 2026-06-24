@@ -76,7 +76,7 @@ Deploy as a web app for real-time predictions
 
 **Er. Pratiksha Mhaske**
 
-**LinkedIn:** https://www.linkedin.com/in/pratiksha-mhaske-173643387
+**LinkedIn:** https://www.linkedin.com/in/pratiksha-mhaske
 
 **GitHub:** https://github.com/PratikshaMhaske
 
